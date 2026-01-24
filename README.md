@@ -1,4 +1,11 @@
-## Hi there 👋
+## 👋 Introduction
+
+**"데이터에 기반한 성능 최적화와 안정적인 아키텍처를 지향하는 안드로이드 개발자 배찬우입니다."**
+
+사용자에게 더 나은 경험을 제공하기 위해 **1,500명 이상의 유저**가 사용하는 서비스를 직접 런칭하고 운영했습니다. 실제 데이터를 바탕으로 **토큰 재발급 속도 200ms 개선, 이미지 전송 시간 300ms 단축** 등 구체적인 성능 최적화를 이루어내는 과정을 즐깁니다. 유지보수와 확장이 용이한 **Clean Architecture** 설계를 지향합니다.
+
+<br>
+
 
 ## 💼 Career
 | 기간                | 소속           | 내용                                              |
@@ -41,4 +48,25 @@
 
 
 
+## 🛠 Tech Stacks
+
+### 📱 Android Development
+* **Language**: Kotlin
+* **UI Framework**: Jetpack Compose, Android Jetpack (Activity, Fragment, Navigation)
+* **Architecture**: Clean Architecture, MVVM, MVI
+* **Asynchronous**: Coroutines, Flow, Channel
+* **Libraries**: Hilt, Retrofit2, OkHttp, Room, DataStore
+
+### 🤖 AI Agent & Automation
+* **Workflow Automation**: n8n (Webhook, Workflow)
+* **AI & LLM**: OpenAI, Claude, Solar
+
+### ☁️ Infrastructure & Database
+* **Database**: PostgreSQL, SQL
+* **Infra & Deploy**: Google Cloud Platform (GCP), Docker Compose
+* **Network & Security**: Nginx, SSL (HTTPS)
+
+### 🌐 Web & Frontend
+* **Language**: JavaScript, HTML, CSS
+* **Framework**: React
 
