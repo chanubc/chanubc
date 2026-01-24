@@ -48,7 +48,7 @@
 | **2025.01** | [Photos-LruCache](https://github.com/chanubc/Photos-LruCache) | 이미지 라이브러리 없이 구현한 LRU Cache 기반 갤러리 앱 | Android |
 | **23.12 ~ 24.06** | [Don’t Be](https://github.com/TeamDon-tBe/ANDROID) | 투명도를 활용한 온화한 IT메이커들을 위한 커뮤니티 | Android |
 | **23.06 ~ 23.07** | [Lite-Weight](https://github.com/Lite-Weight/LiteWeight_Android) | OCR 및 공공데이터 API를 활용한 청소년 영양 솔루션 앱 | 기획 · 디자인 · Android |
-| **23.07 ~ 23.08** | [농토리](https://github.com/chanubc/Nongtori) | 농수산물 직거래 플랫폼 서비스 | Frontend |
+| **23.07 ~ 23.08** | [농토리](https://github.com/chanubc/Nongtori) | 농수산물 직거래 플랫폼 서비스 | Frontend 리드 |
 
 <br>
 
