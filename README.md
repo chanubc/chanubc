@@ -23,8 +23,7 @@
 <br>
 
 > **Project Highlight**
-> * **[대상] 한국보건산업진흥원 공공데이터 활용 공모전:** 광자 인식(OCR) 및 공공데이터 API를 활용한 '청소년 영양 솔루션 앱' 개발 [[관련기사]]("https://it.chosun.com/news/articleView.html?idxno=2023090101142")
-
+> * **[대상] 한국보건산업진흥원 공공데이터 활용 공모전:** 광자 인식(OCR) 및 공공데이터 API를 활용한 '청소년 영양 솔루션 앱' 개발 [[관련기사](https://it.chosun.com/news/articleView.html?idxno=2023090101142)]
 <br>
 
 [![chanu's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanubc&hide=stars&count_private=true&show_icons=true&)](https://github.com/chanubc/github-readme-stats)
