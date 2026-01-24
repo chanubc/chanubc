@@ -61,4 +61,5 @@
 | **Frameworks** | Android Jetpack, Jetpack Compose, React |
 | **Architecture** | Clean Architecture, MVVM, MVI |
 | **Libraries** | Hilt, Retrofit2, OkHttp, Coroutines, Flow, Room |
-| **Infra & Tools** | GCP, Docker, PostgreSQL, Nginx |
+| **Infra & Database** | GCP, Docker, PostgreSQL, Nginx |
+| **Collaboration** | Git, Slack, Notion, Confluence |
