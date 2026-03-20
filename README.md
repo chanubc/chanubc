@@ -42,8 +42,9 @@
 
 | 기간 | 이름 | 내용 | 파트 |
 | :--- | :--- | :--- | :--- |
+| **26.02 ~ 진행중** | [알프레도](https://github.com/chanubc/LinkdBot-RAG) | Proactive Knowledge Agent — 저장된 링크를 현재 관심사와 연결해 추천 (Hybrid RAG) | AI Agent · Backend |
 | **2026.01** | [나락분석봇](https://pf.kakao.com/_xbHnxon) | 유튜브 댓글 여론 분석 자동화 카카오 챗봇 (n8n + LLM 기반) | 기획 · AI Agent |
-| **24.08 ~ 진행중** | [Wable](https://github.com/Team-Wable/WABLE-ANDROID) |  Clean Lck를 위한 온화한 익명 커뮤니티 (1,500명 유저 운영) | Android |
+| **24.08 ~ 진행중** | [Wable](https://github.com/Team-Wable/WABLE-ANDROID) | Clean Lck를 위한 온화한 익명 커뮤니티 (1,500명 유저 운영) | Android |
 | **24.07 ~ 24.10** | [꾸물꿈](https://github.com/OMZigak/KKUM_ANDROID) | 친구들과 재미있고 확실한 지각 문제를 해결해 주는 서비스 | Android |
 | **2025.01** | [Photos-LruCache](https://github.com/chanubc/Photos-LruCache) | 이미지 라이브러리 없이 구현한 LRU Cache 기반 갤러리 앱 | Android |
 | **23.12 ~ 24.06** | [Don’t Be](https://github.com/TeamDon-tBe/ANDROID) | 투명도를 활용한 온화한 IT메이커들을 위한 커뮤니티 | Android |
